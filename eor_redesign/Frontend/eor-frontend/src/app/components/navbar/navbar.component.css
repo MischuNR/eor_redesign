@@ -1,0 +1,22 @@
+.btn-custom {
+  background-color: #FF5252;
+  color: #FFFFFF;
+}
+.nav-link {
+  color: #FFFFFF !important;
+}
+.nav-underline{
+text-decoration: underline;
+}
+.bg-custom{
+  background-color: #607D8B;
+}
+.navbar-brand{
+  color: #FF5252;
+  font-size: 3vh;
+  font-weight: 600;
+}
+.modal-content{
+  background-color: #607D8B;
+  color: #FFFFFF;
+}
